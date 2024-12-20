@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Barcelona",
+      "description": "La Sagrada Familia y las playas de la ciudad te esperan.",
+      "image": "/images/bcn.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Paris",
+      "description": "Disfruta de la Torre Eiffel y el Museo del Louvre.",
+      "image": "/images/paris.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Roma",
+      "description": "Explora el Coliseo y la Ciudad del Vaticano.",
+      "image": "/images/roma.jpeg"
+    }
+]

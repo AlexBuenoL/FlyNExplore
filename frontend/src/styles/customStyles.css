@@ -1,0 +1,19 @@
+.header {
+    fontSize: 2rem;
+    fontWeight: bold;
+    color: #333;
+    textTransform: uppercase;
+    letterSpacing: 2px;
+    marginBottom: 20px;
+    fontFamily: 'Roboto', sans-serif;
+    textShadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
