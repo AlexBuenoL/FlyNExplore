@@ -3,9 +3,9 @@ This is a full-stack web application that helps users find the cheapest flights 
 
 Technologies Used
 
-- Frontend: Built with ReactJS for an intuitive and responsive user interface.
-- Backend: Powered by a RESTful API developed using Flask (Python).
-- Database: MySQL database with seamless integration through the SQLAlchemy ORM.
+- Frontend: Built with **ReactJS** for an intuitive and responsive user interface.
+- Backend: Powered by a **RESTful API** developed using **Flask (Python)**.
+- Database: MySQL database with seamless integration through the **SQLAlchemy ORM**.
 
 Features
 
